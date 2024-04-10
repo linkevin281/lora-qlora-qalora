@@ -1,0 +1,9 @@
+[submodule "qa-lora"]
+	path = qa-lora
+	url = https://github.com/yuhuixu1993/qa-lora.git
+[submodule "LoRA"]
+	path = LoRA
+	url = https://github.com/microsoft/LoRA.git
+[submodule "qlora"]
+	path = qlora
+	url = https://github.com/artidoro/qlora.git
